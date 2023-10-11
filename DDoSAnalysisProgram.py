@@ -1,6 +1,6 @@
-''' Program Title: Formal Element 
-    Program Developer: Abdirashid Hussein Abdi
-    Date: 11/4/2020 '''
+''' Program Title: DDoSAnalysisProgram.py 
+    Program Developer: Abdirashid Abdi
+ '''
 
 # This program reads in all the entries from DDoDRawLog.txt, analyses the IP address information and produces an output file with information on the sources of the DDoS attack.
 
